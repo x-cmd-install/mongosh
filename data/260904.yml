@@ -1,0 +1,61 @@
+about:
+  description: The MongoDB Shell
+  license: Apache-2.0
+  homepage: https://www.mongodb.com/try/download/shell
+  head: 4f55d3d
+  archived: false
+  latestVersion: v2.10.0
+  collectedAt: 2026-09-04T04:50:25Z
+timeline:
+  created: 2019-10-03
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-13
+popularity:
+  star: 400
+  watcher: 18
+  fork: 92
+  release: 149
+  contributor: 77
+  pullRequest: 192
+  issue: 0
+language:
+  TypeScript: 3731335
+  JavaScript: 156905
+  Kotlin: 141190
+  Shell: 60434
+  Dockerfile: 16594
+  PowerShell: 635
+totalLine: 4107093
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 10
+    openPR: 6
+    closedIssue: 0
+    openIssue: 0
+    commit: 30
+  last90d:
+    since: 2026-06-06
+    release: 4
+    mergedPR: 60
+    openPR: 22
+    closedIssue: 0
+    openIssue: 0
+    commit: 132
+  last180d:
+    since: 2026-03-08
+    release: 7
+    mergedPR: 102
+    openPR: 22
+    closedIssue: 0
+    openIssue: 0
+    commit: 226
+  last360d:
+    since: 2025-09-09
+    release: 12
+    mergedPR: 239
+    openPR: 24
+    closedIssue: 0
+    openIssue: 0
+    commit: 469
