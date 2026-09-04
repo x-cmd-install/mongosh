@@ -7,7 +7,7 @@ about:
   head: 4f55d3d
   archived: false
   latestVersion: v2.10.0
-  collectedAt: 2026-09-04T19:54:52Z
+  collectedAt: 2026-09-04T20:44:40Z
 timeline:
   created: 2019-10-03
   lastCommit: 2026-09-03
@@ -85,6 +85,99 @@ total:
   openIssue: 0
   commit: 4511
 ---
+path: /home/runner/.x-repo/github.com/mongodb-js/mongosh
+collectedAt: 2026-09-04T20:44:46Z
+loc:
+  TypeScript:
+    code: 92969
+    comments: 5952
+    blanks: 9226
+    files: 386
+  Json:
+    code: 73075
+    comments: 0
+    blanks: 2
+    files: 97
+  Tsx:
+    code: 3338
+    comments: 122
+    blanks: 548
+    files: 38
+  JavaScript:
+    code: 3318
+    comments: 917
+    blanks: 283
+    files: 210
+  Kotlin:
+    code: 2821
+    comments: 43
+    blanks: 375
+    files: 29
+  Sh:
+    code: 771
+    comments: 117
+    blanks: 199
+    files: 19
+  Yaml:
+    code: 455
+    comments: 10
+    blanks: 41
+    files: 3
+  Dockerfile:
+    code: 335
+    comments: 21
+    blanks: 42
+    files: 28
+  Batch:
+    code: 77
+    comments: 0
+    blanks: 24
+    files: 2
+  VisualStudioSolution:
+    code: 70
+    comments: 0
+    blanks: 2
+    files: 2
+  RPMSpecfile:
+    code: 34
+    comments: 7
+    blanks: 8
+    files: 2
+  Bitbake:
+    code: 16
+    comments: 1
+    blanks: 1
+    files: 2
+  Xml:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  ReStructuredText:
+    code: 9
+    comments: 0
+    blanks: 3
+    files: 2
+  Svg:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 28277
+    blanks: 7863
+    files: 39
+  Text:
+    code: 0
+    comments: 340
+    blanks: 0
+    files: 169
+total:
+  code: 177595
+  comments: 35809
+  blanks: 18666
+  files: 1031
 ---
 date: "2026-08-24"
 repo:
