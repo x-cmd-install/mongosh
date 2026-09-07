@@ -2,97 +2,97 @@ about:
   description: "The MongoDB Shell"
   license: Apache-2.0
   homepage: https://www.mongodb.com/try/download/shell
-  head: 20f76af
+  head: 507dd9c
   archived: false
   latestVersion: "v2.10.0"
-  collectedAt: 2026-09-07T04:21:26Z
+  collectedAt: 2026-09-07T20:13:52Z
 timeline:
   created: 2019-10-03
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-13
 popularity:
-  star: 400
+  star: 401
   watcher: 18
   fork: 92
   release: 149
   contributor: 77
-  pullRequest: 2831
+  pullRequest: 2834
   issue: 0
 language:
-  TypeScript: 3731335
+  TypeScript: 3733730
   JavaScript: 156905
   Kotlin: 141190
   Shell: 60434
   Dockerfile: 16594
   PowerShell: 635
-totalBytes: 4107093
+totalBytes: 4109488
 recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 10
-    openPR: 10
+    mergedPR: 15
+    openPR: 8
     closedIssue: 0
     openIssue: 0
-    commit: 24
+    commit: 30
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 35
-    openPR: 26
+    mergedPR: 40
+    openPR: 24
     closedIssue: 0
     openIssue: 0
-    commit: 81
+    commit: 87
   last90d:
     since: 2026-06-09
     release: 4
-    mergedPR: 59
-    openPR: 26
+    mergedPR: 64
+    openPR: 24
     closedIssue: 0
     openIssue: 0
-    commit: 132
+    commit: 138
   last180d:
     since: 2026-03-11
     release: 7
-    mergedPR: 100
-    openPR: 26
+    mergedPR: 105
+    openPR: 24
     closedIssue: 0
     openIssue: 0
-    commit: 215
+    commit: 221
   last360d:
     since: 2025-09-12
     release: 11
-    mergedPR: 237
-    openPR: 28
+    mergedPR: 242
+    openPR: 26
     closedIssue: 0
     openIssue: 0
-    commit: 460
+    commit: 466
   last720d:
     since: 2024-09-17
     release: 29
-    mergedPR: 576
-    openPR: 33
+    mergedPR: 581
+    openPR: 31
     closedIssue: 0
     openIssue: 0
-    commit: 1012
+    commit: 1018
 total:
   release: 149
-  mergedPR: 2635
-  openPR: 34
+  mergedPR: 2640
+  openPR: 32
   closedIssue: 0
   openIssue: 0
-  commit: 4512
+  commit: 4518
 ---
 path: /home/runner/.x-repo/github.com/mongodb-js/mongosh
-collectedAt: 2026-09-07T04:21:43Z
+collectedAt: 2026-09-07T20:14:09Z
 loc:
   TypeScript:
-    code: 92969
-    comments: 5952
-    blanks: 9226
+    code: 93024
+    comments: 5962
+    blanks: 9231
     files: 386
   Json:
-    code: 73075
+    code: 73105
     comments: 0
     blanks: 2
     files: 97
@@ -172,9 +172,9 @@ loc:
     blanks: 0
     files: 169
 total:
-  code: 177595
-  comments: 35809
-  blanks: 18666
+  code: 177680
+  comments: 35819
+  blanks: 18671
   files: 1031
 ---
 date: "2026-08-24"
@@ -347,7 +347,7 @@ checks:
       - 'Info:   0 out of   2 pipCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:21:44+00:00
+  collectedAt: 2026-09-07T20:14:10+00:00
   platform:
     darwin/arm64:
       name:  mongosh-2.10.0-darwin-arm64.zip
