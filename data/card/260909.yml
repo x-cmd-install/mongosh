@@ -2,15 +2,15 @@ about:
   description: "The MongoDB Shell"
   license: Apache-2.0
   homepage: https://www.mongodb.com/try/download/shell
-  head: 4e69bc3
+  head: d8473f4
   archived: false
   latestVersion: "v2.10.0"
   latestRelease: "v2.10.0"
   latestPrerelease: "v2.2.7"
-  collectedAt: 2026-09-09T04:27:10Z
+  collectedAt: 2026-09-09T18:24:03Z
 timeline:
   created: 2019-10-03
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-13
   lastRelease: 2026-08-13
   lastPrerelease: 2024-06-13
@@ -27,68 +27,68 @@ language:
   JavaScript: 156905
   Kotlin: 141190
   Shell: 61150
-  Dockerfile: 16594
+  Dockerfile: 16869
   PowerShell: 635
-totalBytes: 4110370
+totalBytes: 4110645
 recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 17
-    openPR: 7
+    mergedPR: 18
+    openPR: 6
     closedIssue: 0
     openIssue: 0
-    commit: 33
+    commit: 35
   last60d:
     since: 2026-07-11
     release: 1
-    mergedPR: 41
-    openPR: 24
+    mergedPR: 42
+    openPR: 23
     closedIssue: 0
     openIssue: 0
-    commit: 90
+    commit: 92
   last90d:
     since: 2026-06-11
     release: 4
-    mergedPR: 66
-    openPR: 24
+    mergedPR: 67
+    openPR: 23
     closedIssue: 0
     openIssue: 0
-    commit: 141
+    commit: 143
   last180d:
     since: 2026-03-13
     release: 7
-    mergedPR: 107
-    openPR: 24
+    mergedPR: 108
+    openPR: 23
     closedIssue: 0
     openIssue: 0
-    commit: 224
+    commit: 226
   last360d:
     since: 2025-09-14
     release: 11
-    mergedPR: 243
-    openPR: 26
+    mergedPR: 244
+    openPR: 25
     closedIssue: 0
     openIssue: 0
-    commit: 469
+    commit: 471
   last720d:
     since: 2024-09-19
     release: 29
-    mergedPR: 583
-    openPR: 30
+    mergedPR: 584
+    openPR: 29
     closedIssue: 0
     openIssue: 0
-    commit: 1021
+    commit: 1023
 total:
   release: 149
-  mergedPR: 2642
-  openPR: 32
+  mergedPR: 2643
+  openPR: 31
   closedIssue: 0
   openIssue: 0
-  commit: 4521
+  commit: 4523
 ---
 path: /home/runner/.x-repo/github.com/mongodb-js/mongosh
-collectedAt: 2026-09-09T04:27:29Z
+collectedAt: 2026-09-09T18:24:19Z
 loc:
   TypeScript:
     code: 93024
@@ -126,9 +126,9 @@ loc:
     blanks: 41
     files: 3
   Dockerfile:
-    code: 335
-    comments: 21
-    blanks: 42
+    code: 336
+    comments: 23
+    blanks: 44
     files: 28
   Batch:
     code: 77
@@ -176,9 +176,9 @@ loc:
     blanks: 0
     files: 169
 total:
-  code: 177685
-  comments: 35827
-  blanks: 18672
+  code: 177686
+  comments: 35829
+  blanks: 18674
   files: 1031
 ---
 date: "2026-09-07"
