@@ -4,7 +4,7 @@
 
 The MongoDB Shell
 
-![mongosh](https://repo.x-cmd.io/mongosh.svg)
+![mongosh](https://repo.x-cmd.io/mongosh.svg?lang=zh)
 
 ## 安装
 
@@ -21,9 +21,54 @@ x install mongosh
 ## 发布
 
 - **最新版本**: `v2.10.0` (2026-08-13)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 41 个
-- **发布时间**: 2026-08-13T13:00:33Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [mongodb-mongosh-2.10.0.aarch64.rpm](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-2.10.0.aarch64.rpm) | 62.8 MiB | `runtime/rpm/aarch64` |
+| [mongodb-mongosh-2.10.0.ppc64le.rpm](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-2.10.0.ppc64le.rpm) | 70.4 MiB | `runtime/rpm/ppc64le` |
+| [mongodb-mongosh-2.10.0.s390x.rpm](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-2.10.0.s390x.rpm) | 68.7 MiB | `runtime/rpm/s390x` |
+| [mongodb-mongosh-2.10.0.x86_64.rpm](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-2.10.0.x86_64.rpm) | 63.5 MiB | `runtime/rpm/x86_64` |
+| [mongodb-mongosh-shared-openssl11-2.10.0.aarch64.rpm](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl11-2.10.0.aarch64.rpm) | 59.9 MiB | `runtime/rpm/aarch64` |
+| [mongodb-mongosh-shared-openssl11-2.10.0.x86_64.rpm](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl11-2.10.0.x86_64.rpm) | 61.0 MiB | `runtime/rpm/x86_64` |
+| [mongodb-mongosh-shared-openssl11_2.10.0_amd64.deb](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl11_2.10.0_amd64.deb) | 55.8 MiB | `runtime/deb/amd64` |
+| [mongodb-mongosh-shared-openssl11_2.10.0_amd64.deb.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl11_2.10.0_amd64.deb.sig) | 833 B | `other` |
+| [mongodb-mongosh-shared-openssl11_2.10.0_arm64.deb](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl11_2.10.0_arm64.deb) | 53.0 MiB | `runtime/deb/arm64` |
+| [mongodb-mongosh-shared-openssl11_2.10.0_arm64.deb.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl11_2.10.0_arm64.deb.sig) | 833 B | `other` |
+| [mongodb-mongosh-shared-openssl3-2.10.0.aarch64.rpm](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl3-2.10.0.aarch64.rpm) | 60.0 MiB | `runtime/rpm/aarch64` |
+| [mongodb-mongosh-shared-openssl3-2.10.0.x86_64.rpm](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl3-2.10.0.x86_64.rpm) | 61.0 MiB | `runtime/rpm/x86_64` |
+| [mongodb-mongosh-shared-openssl3_2.10.0_amd64.deb](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl3_2.10.0_amd64.deb) | 55.8 MiB | `runtime/deb/amd64` |
+| [mongodb-mongosh-shared-openssl3_2.10.0_amd64.deb.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl3_2.10.0_amd64.deb.sig) | 833 B | `other` |
+| [mongodb-mongosh-shared-openssl3_2.10.0_arm64.deb](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl3_2.10.0_arm64.deb) | 53.0 MiB | `runtime/deb/arm64` |
+| [mongodb-mongosh-shared-openssl3_2.10.0_arm64.deb.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh-shared-openssl3_2.10.0_arm64.deb.sig) | 833 B | `other` |
+| [mongodb-mongosh_2.10.0_amd64.deb](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh_2.10.0_amd64.deb) | 58.1 MiB | `runtime/deb/amd64` |
+| [mongodb-mongosh_2.10.0_amd64.deb.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh_2.10.0_amd64.deb.sig) | 833 B | `other` |
+| [mongodb-mongosh_2.10.0_arm64.deb](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh_2.10.0_arm64.deb) | 55.7 MiB | `runtime/deb/arm64` |
+| [mongodb-mongosh_2.10.0_arm64.deb.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongodb-mongosh_2.10.0_arm64.deb.sig) | 833 B | `other` |
+| [mongosh-2.10.0-darwin-arm64.zip](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-darwin-arm64.zip) | 77.2 MiB | `native/darwin/arm64` |
+| [mongosh-2.10.0-darwin-x64.zip](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-darwin-x64.zip) | 80.1 MiB | `native/darwin/x64` |
+| [mongosh-2.10.0-linux-arm64-openssl11.tgz](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-arm64-openssl11.tgz) | 85.7 MiB | `native/linux/arm64` |
+| [mongosh-2.10.0-linux-arm64-openssl11.tgz.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-arm64-openssl11.tgz.sig) | 833 B | `native/linux/arm64` |
+| [mongosh-2.10.0-linux-arm64-openssl3.tgz](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-arm64-openssl3.tgz) | 85.7 MiB | `native/linux/arm64` |
+| [mongosh-2.10.0-linux-arm64-openssl3.tgz.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-arm64-openssl3.tgz.sig) | 833 B | `native/linux/arm64` |
+| [mongosh-2.10.0-linux-arm64.tgz](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-arm64.tgz) | 89.2 MiB | `native/linux/arm64` |
+| [mongosh-2.10.0-linux-arm64.tgz.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-arm64.tgz.sig) | 833 B | `native/linux/arm64` |
+| [mongosh-2.10.0-linux-ppc64le.tgz](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-ppc64le.tgz) | 100.2 MiB | `native/unknown` |
+| [mongosh-2.10.0-linux-ppc64le.tgz.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-ppc64le.tgz.sig) | 833 B | `other` |
+| [mongosh-2.10.0-linux-s390x.tgz](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-s390x.tgz) | 96.3 MiB | `native/unknown` |
+| [mongosh-2.10.0-linux-s390x.tgz.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-s390x.tgz.sig) | 833 B | `other` |
+| [mongosh-2.10.0-linux-x64-openssl11.tgz](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-x64-openssl11.tgz) | 86.3 MiB | `native/unknown` |
+| [mongosh-2.10.0-linux-x64-openssl11.tgz.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-x64-openssl11.tgz.sig) | 833 B | `other` |
+| [mongosh-2.10.0-linux-x64-openssl3.tgz](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-x64-openssl3.tgz) | 86.3 MiB | `native/unknown` |
+| [mongosh-2.10.0-linux-x64-openssl3.tgz.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-x64-openssl3.tgz.sig) | 833 B | `other` |
+| [mongosh-2.10.0-linux-x64.tgz](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-x64.tgz) | 89.4 MiB | `native/unknown` |
+| [mongosh-2.10.0-linux-x64.tgz.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-linux-x64.tgz.sig) | 833 B | `other` |
+| [mongosh-2.10.0-win32-x64.zip](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-win32-x64.zip) | 59.8 MiB | `native/win/x64` |
+| [mongosh-2.10.0-win32-x64.zip.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-win32-x64.zip.sig) | 833 B | `native/win/x64` |
+| [mongosh-2.10.0-x64.msi](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-x64.msi) | 62.2 MiB | `other` |
 
 ## 流行度
 
@@ -31,23 +76,23 @@ x install mongosh
 
 ## 累计统计
 
-- **发布数**: 149 · **已合并 PR**: 2643 · **开放 PR**: 32 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 4523
+- **发布数**: 149 · **已合并 PR**: 2644 · **开放 PR**: 31 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 4525
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 17 | 7 | 0 | 0 | 35 |
-| 90d | 2026-06-12 | 4 | 67 | 24 | 0 | 0 | 143 |
-| 360d | 2025-09-15 | 11 | 244 | 26 | 0 | 0 | 471 |
+| 30d | 2026-08-11 | 1 | 18 | 6 | 0 | 0 | 37 |
+| 90d | 2026-06-12 | 4 | 68 | 23 | 0 | 0 | 145 |
+| 360d | 2025-09-15 | 11 | 245 | 25 | 0 | 0 | 473 |
 
 ## 代码规模
 
-合计: **177,397** 行代码（覆盖前 5 种语言、共 **760** 个文件）。
+合计: **177,487** 行代码（覆盖前 5 种语言、共 **760** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 93,024 | 5,964 | 9,231 | 386 |
+| TypeScript | 93,114 | 5,973 | 9,246 | 386 |
 | Json | 73,105 | 0 | 2 | 97 |
 | Tsx | 3,338 | 122 | 548 | 38 |
 | JavaScript | 3,318 | 917 | 283 | 210 |
@@ -72,4 +117,4 @@ mongosh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:25:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:53:56Z._
