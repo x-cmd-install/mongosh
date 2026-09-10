@@ -12,6 +12,28 @@ The MongoDB Shell
 x install mongosh
 ```
 
+## 代码规模
+
+合计: **177,487** 行代码（覆盖前 5 种语言、共 **760** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| TypeScript | 93,114 | 5,973 | 9,246 | 386 |
+| Json | 73,105 | 0 | 2 | 97 |
+| Tsx | 3,338 | 122 | 548 | 38 |
+| JavaScript | 3,318 | 917 | 283 | 210 |
+| Kotlin | 2,821 | 43 | 375 | 29 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **6.7 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/mongodb-js/mongosh>
@@ -23,6 +45,25 @@ x install mongosh
 - **最新版本**: `v2.10.0` (2026-08-13)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 41 个
+
+## 流行度
+
+- **Star**: 401 · **Fork**: 93 · **开放 issue**: 0 · **贡献者**: 78
+
+## 累计统计
+
+- **发布数**: 149 · **已合并 PR**: 2644 · **开放 PR**: 31 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 4525
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 18 | 6 | 0 | 0 | 37 |
+| last60d | 2026-07-12 | 1 | 43 | 23 | 0 | 0 | 94 |
+| 90d | 2026-06-12 | 4 | 68 | 23 | 0 | 0 | 145 |
+| last180d | 2026-03-14 | 7 | 109 | 23 | 0 | 0 | 228 |
+| 360d | 2025-09-15 | 11 | 245 | 25 | 0 | 0 | 473 |
+| last720d | 2024-09-20 | 29 | 585 | 29 | 0 | 0 | 1025 |
 
 ## Release 资产
 
@@ -70,43 +111,14 @@ x install mongosh
 | [mongosh-2.10.0-win32-x64.zip.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-win32-x64.zip.sig) | 833 B | `native/win/x64` |
 | [mongosh-2.10.0-x64.msi](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-x64.msi) | 62.2 MiB | `other` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 401 · **Fork**: 93 · **开放 issue**: 0 · **贡献者**: 78
+在 [repology.org](https://repology.org/project/mongosh) 上共有 **22** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 149 · **已合并 PR**: 2644 · **开放 PR**: 31 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 4525
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 18 | 6 | 0 | 0 | 37 |
-| 90d | 2026-06-12 | 4 | 68 | 23 | 0 | 0 | 145 |
-| 360d | 2025-09-15 | 11 | 245 | 25 | 0 | 0 | 473 |
-
-## 代码规模
-
-合计: **177,487** 行代码（覆盖前 5 种语言、共 **760** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| TypeScript | 93,114 | 5,973 | 9,246 | 386 |
-| Json | 73,105 | 0 | 2 | 97 |
-| Tsx | 3,338 | 122 | 548 | 38 |
-| JavaScript | 3,318 | 917 | 283 | 210 |
-| Kotlin | 2,821 | 43 | 375 | 29 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **6.7 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `2.9.2` | ⚠️ outdated |
+| Nix unstable | `2.10.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -117,4 +129,4 @@ mongosh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:53:56Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:18:21Z._

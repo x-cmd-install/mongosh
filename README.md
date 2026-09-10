@@ -12,6 +12,28 @@ The MongoDB Shell
 x install mongosh
 ```
 
+## Code insight
+
+Total: **177,487** lines of code across **760** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 93,114 | 5,973 | 9,246 | 386 |
+| Json | 73,105 | 0 | 2 | 97 |
+| Tsx | 3,338 | 122 | 548 | 38 |
+| JavaScript | 3,318 | 917 | 283 | 210 |
+| Kotlin | 2,821 | 43 | 375 | 29 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.7 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/mongodb-js/mongosh>
@@ -23,6 +45,25 @@ x install mongosh
 - **Latest**: `v2.10.0` (2026-08-13)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 41
+
+## Popularity
+
+- **Stars**: 401 · **Forks**: 93 · **Open issues**: 0 · **Contributors**: 78
+
+## Totals (cumulative)
+
+- **Releases**: 149 · **Merged PRs**: 2644 · **Open PRs**: 31 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4525
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 18 | 6 | 0 | 0 | 37 |
+| last60d | 2026-07-12 | 1 | 43 | 23 | 0 | 0 | 94 |
+| 90d | 2026-06-12 | 4 | 68 | 23 | 0 | 0 | 145 |
+| last180d | 2026-03-14 | 7 | 109 | 23 | 0 | 0 | 228 |
+| 360d | 2025-09-15 | 11 | 245 | 25 | 0 | 0 | 473 |
+| last720d | 2024-09-20 | 29 | 585 | 29 | 0 | 0 | 1025 |
 
 ## Release assets
 
@@ -70,43 +111,14 @@ x install mongosh
 | [mongosh-2.10.0-win32-x64.zip.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-win32-x64.zip.sig) | 833 B | `native/win/x64` |
 | [mongosh-2.10.0-x64.msi](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-x64.msi) | 62.2 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 401 · **Forks**: 93 · **Open issues**: 0 · **Contributors**: 78
+Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 149 · **Merged PRs**: 2644 · **Open PRs**: 31 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4525
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 18 | 6 | 0 | 0 | 37 |
-| 90d | 2026-06-12 | 4 | 68 | 23 | 0 | 0 | 145 |
-| 360d | 2025-09-15 | 11 | 245 | 25 | 0 | 0 | 473 |
-
-## Code size
-
-Total: **177,487** lines of code across **760** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 93,114 | 5,973 | 9,246 | 386 |
-| Json | 73,105 | 0 | 2 | 97 |
-| Tsx | 3,338 | 122 | 548 | 38 |
-| JavaScript | 3,318 | 917 | 283 | 210 |
-| Kotlin | 2,821 | 43 | 375 | 29 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.7 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.9.2` | ⚠️ outdated |
+| Nix unstable | `2.10.0` | ✅ latest |
 
 ## Improve this data
 
@@ -117,4 +129,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:53:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:18:20Z._
