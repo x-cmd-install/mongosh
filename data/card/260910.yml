@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10.0"
   latestRelease: "v2.10.0"
   latestPrerelease: "v2.2.7"
-  collectedAt: 2026-09-10T20:17:33Z
+  collectedAt: 2026-09-10T23:37:33Z
 timeline:
   created: 2019-10-03
   lastCommit: 2026-09-10
@@ -88,7 +88,7 @@ total:
   commit: 4525
 ---
 path: /home/runner/.x-repo/github.com/mongodb-js/mongosh
-collectedAt: 2026-09-10T20:17:58Z
+collectedAt: 2026-09-10T23:37:51Z
 loc:
   TypeScript:
     code: 93114
