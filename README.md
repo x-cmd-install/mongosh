@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 18 | 7 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 1 | 41 | 24 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 4 | 68 | 24 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 7 | 109 | 24 | 0 | 0 | 0 |
-| 360d | 2025-09-16 | 11 | 245 | 26 | 0 | 0 | 0 |
-| last720d | 2024-09-21 | 29 | 585 | 30 | 0 | 0 | 1025 |
+| 30d | 2026-08-13 | 1 | 18 | 7 | 0 | 0 | 37 |
+| last60d | 2026-07-14 | 1 | 41 | 24 | 0 | 0 | 94 |
+| 90d | 2026-06-14 | 4 | 68 | 24 | 0 | 0 | 145 |
+| last180d | 2026-03-16 | 7 | 107 | 24 | 0 | 0 | 228 |
+| 360d | 2025-09-17 | 11 | 241 | 26 | 0 | 0 | 473 |
+| last720d | 2024-09-22 | 29 | 584 | 30 | 0 | 0 | 1025 |
 
 ## Release assets
 
@@ -129,4 +129,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:38:34Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:23:15Z._
