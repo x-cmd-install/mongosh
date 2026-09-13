@@ -1,3 +1,13 @@
+- repo: termux
+  srcname: mongosh
+  binname: mongosh
+  visiblename: mongosh
+  version: 2.10.0
+  origversion: null
+  status: newest
+  summary: The MongoDB Shell
+  maintainers:
+    - gouranga.das.khulna@gmail.com
 - repo: aur
   srcname: mongosh
   binname: mongosh
@@ -28,16 +38,14 @@
   srcname: mongosh-git
   binname: mongosh-git
   visiblename: mongosh-git
-  version: 1.5.4.r11.g1db42a4c
-  origversion: 1.5.4.r11.g1db42a4c-3
+  version: 5.2.4.r1.gf5a5b10e7
+  origversion: 5.2.4.r1.gf5a5b10e7-4
   status: rolling
   summary: The MongoDB Shell.
   maintainers:
     - dfimium499@aur
   licenses:
-    - Apache
-    - custom:Customer Agreement
-    - MPL
+    - Apache-2.0
 - repo: blackarch
   srcname: mongosh
   binname: mongosh
@@ -281,13 +289,3 @@
     - willysr@slackbuilds.org
   categories:
     - development
-- repo: termux
-  srcname: mongosh
-  binname: mongosh
-  visiblename: mongosh
-  version: 2.10.0
-  origversion: null
-  status: newest
-  summary: The MongoDB Shell
-  maintainers:
-    - gouranga.das.khulna@gmail.com
