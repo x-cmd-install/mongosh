@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 18 | 7 | 0 | 0 | 30 |
-| last60d | 2026-07-15 | 1 | 41 | 23 | 0 | 0 | 80 |
-| 90d | 2026-06-15 | 4 | 66 | 24 | 0 | 0 | 143 |
-| last180d | 2026-03-17 | 7 | 107 | 24 | 0 | 0 | 228 |
-| 360d | 2025-09-18 | 11 | 241 | 26 | 0 | 0 | 468 |
-| last720d | 2024-09-23 | 29 | 584 | 30 | 0 | 0 | 1025 |
+| 30d | 2026-08-15 | 0 | 18 | 7 | 0 | 0 | 30 |
+| last60d | 2026-07-16 | 1 | 40 | 23 | 0 | 0 | 80 |
+| 90d | 2026-06-16 | 4 | 66 | 24 | 0 | 0 | 143 |
+| last180d | 2026-03-18 | 6 | 106 | 24 | 0 | 0 | 228 |
+| 360d | 2025-09-19 | 11 | 239 | 26 | 0 | 0 | 468 |
+| last720d | 2024-09-24 | 29 | 583 | 30 | 0 | 0 | 1025 |
 
 ## Release assets
 
@@ -111,15 +111,6 @@ Lowest-scoring checks:
 | [mongosh-2.10.0-win32-x64.zip.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-win32-x64.zip.sig) | 833 B | `native/win/x64` |
 | [mongosh-2.10.0-x64.msi](https://github.com/mongodb-js/mongosh/releases/download/v2.10.0/mongosh-2.10.0-x64.msi) | 62.2 MiB | `other` |
 
-## Distribution status
-
-Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.9.2` | ⚠️ outdated |
-| Nix unstable | `2.10.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mongosh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -129,4 +120,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:36:58Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:42:29Z._
