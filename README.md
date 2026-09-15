@@ -14,12 +14,12 @@ x install mongosh
 
 ## Code insight
 
-Total: **177,487** lines of code across **760** files in the top 5 languages.
+Total: **177,508** lines of code across **760** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 93,114 | 5,973 | 9,246 | 386 |
-| Json | 73,105 | 0 | 2 | 97 |
+| Json | 73,126 | 0 | 2 | 97 |
 | Tsx | 3,338 | 122 | 548 | 38 |
 | JavaScript | 3,318 | 917 | 283 | 210 |
 | Kotlin | 2,821 | 43 | 375 | 29 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10.0` (2026-08-13)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 41
 
 ## Popularity
 
-- **Stars**: 401 · **Forks**: 93 · **Open issues**: 0 · **Contributors**: 78
+- **Stars**: 402 · **Forks**: 93 · **Open issues**: 0 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 149 · **Merged PRs**: 2644 · **Open PRs**: 32 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4526
+- **Releases**: 149 · **Merged PRs**: 2647 · **Open PRs**: 29 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4530
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 18 | 7 | 0 | 0 | 30 |
-| last60d | 2026-07-16 | 1 | 40 | 23 | 0 | 0 | 80 |
-| 90d | 2026-06-16 | 4 | 66 | 24 | 0 | 0 | 143 |
-| last180d | 2026-03-18 | 6 | 106 | 24 | 0 | 0 | 228 |
-| 360d | 2025-09-19 | 11 | 239 | 26 | 0 | 0 | 468 |
-| last720d | 2024-09-24 | 29 | 583 | 30 | 0 | 0 | 1025 |
+| 30d | 2026-08-16 | 0 | 20 | 6 | 0 | 0 | 34 |
+| last60d | 2026-07-17 | 1 | 42 | 20 | 0 | 0 | 84 |
+| 90d | 2026-06-17 | 4 | 69 | 21 | 0 | 0 | 147 |
+| last180d | 2026-03-19 | 6 | 109 | 21 | 0 | 0 | 232 |
+| 360d | 2025-09-20 | 11 | 242 | 23 | 0 | 0 | 472 |
+| last720d | 2024-09-25 | 29 | 579 | 27 | 0 | 0 | 1029 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:42:29Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:43:39Z._
