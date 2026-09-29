@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 151 · **Merged PRs**: 2661 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4559
+- **Releases**: 151 · **Merged PRs**: 2661 · **Open PRs**: 24 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4559
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 2 | 24 | 4 | 0 | 0 | 46 |
-| last60d | 2026-07-30 | 3 | 37 | 5 | 0 | 0 | 78 |
-| 90d | 2026-06-30 | 4 | 71 | 15 | 0 | 0 | 140 |
-| last180d | 2026-04-01 | 7 | 112 | 15 | 0 | 0 | 244 |
-| 360d | 2025-10-03 | 13 | 251 | 17 | 0 | 0 | 489 |
-| last720d | 2024-10-08 | 31 | 572 | 20 | 0 | 0 | 1030 |
+| 30d | 2026-08-30 | 2 | 24 | 5 | 0 | 0 | 46 |
+| last60d | 2026-07-31 | 3 | 37 | 6 | 0 | 0 | 78 |
+| 90d | 2026-07-01 | 4 | 67 | 16 | 0 | 0 | 140 |
+| last180d | 2026-04-02 | 7 | 112 | 16 | 0 | 0 | 244 |
+| 360d | 2025-10-04 | 13 | 251 | 18 | 0 | 0 | 489 |
+| last720d | 2024-10-09 | 30 | 569 | 21 | 0 | 0 | 1028 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:11:08Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:33:51Z._
