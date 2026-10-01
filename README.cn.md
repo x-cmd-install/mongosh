@@ -14,14 +14,14 @@ x install mongosh
 
 ## 代码洞察
 
-合计: **179,809** 行代码（覆盖前 5 种语言、共 **761** 个文件）。
+合计: **179,909** 行代码（覆盖前 5 种语言、共 **761** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 93,329 | 6,046 | 9,274 | 386 |
+| TypeScript | 93,428 | 6,047 | 9,274 | 386 |
 | Json | 75,138 | 0 | 2 | 97 |
 | Tsx | 3,407 | 123 | 556 | 38 |
-| JavaScript | 3,322 | 931 | 286 | 211 |
+| JavaScript | 3,323 | 931 | 286 | 211 |
 | Kotlin | 2,821 | 43 | 375 | 29 |
 
 ## OpenSSF Scorecard 评分
@@ -30,7 +30,7 @@ x install mongosh
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 9/24 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,7 +43,7 @@ x install mongosh
 ## 发布
 
 - **最新版本**: `v2.12.0` (2026-09-18)
-- **最近提交**: 2026-09-27
+- **最近提交**: 2026-09-30
 - **Release 含资产**: 53 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install mongosh
 
 ## 累计统计
 
-- **发布数**: 151 · **已合并 PR**: 2661 · **开放 PR**: 26 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 4559
+- **发布数**: 151 · **已合并 PR**: 2662 · **开放 PR**: 26 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 4561
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 22 | 7 | 0 | 0 | 46 |
-| last60d | 2026-08-01 | 3 | 37 | 8 | 0 | 0 | 78 |
-| 90d | 2026-07-02 | 3 | 67 | 18 | 0 | 0 | 140 |
-| last180d | 2026-04-03 | 7 | 112 | 18 | 0 | 0 | 244 |
-| 360d | 2025-10-05 | 13 | 251 | 20 | 0 | 0 | 489 |
-| last720d | 2024-10-10 | 30 | 564 | 23 | 0 | 0 | 1025 |
+| 30d | 2026-09-01 | 2 | 22 | 7 | 0 | 0 | 48 |
+| last60d | 2026-08-02 | 3 | 38 | 8 | 0 | 0 | 80 |
+| 90d | 2026-07-03 | 3 | 68 | 18 | 0 | 0 | 142 |
+| last180d | 2026-04-04 | 7 | 113 | 18 | 0 | 0 | 246 |
+| 360d | 2025-10-06 | 13 | 250 | 20 | 0 | 0 | 491 |
+| last720d | 2024-10-11 | 30 | 562 | 23 | 0 | 0 | 1021 |
 
 ## Release 资产
 
@@ -132,4 +132,4 @@ mongosh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:22:31Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:36:58Z._
