@@ -14,23 +14,23 @@ x install mongosh
 
 ## Code insight
 
-Total: **179,142** lines of code across **761** files in the top 5 languages.
+Total: **179,158** lines of code across **761** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 93,431 | 6,047 | 9,274 | 386 |
-| Json | 74,368 | 0 | 2 | 97 |
+| TypeScript | 93,432 | 6,043 | 9,272 | 386 |
+| Json | 74,383 | 0 | 2 | 97 |
 | Tsx | 3,407 | 123 | 556 | 38 |
 | JavaScript | 3,323 | 931 | 286 | 211 |
 | Kotlin | 2,821 | 43 | 375 | 29 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 9/24 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 7/24 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.13.0` (2026-10-05)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 53
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 152 · **Merged PRs**: 2669 · **Open PRs**: 27 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4577
+- **Releases**: 152 · **Merged PRs**: 2671 · **Open PRs**: 26 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4580
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 18 | 11 | 0 | 0 | 49 |
-| last60d | 2026-08-08 | 4 | 39 | 12 | 0 | 0 | 90 |
-| 90d | 2026-07-09 | 4 | 69 | 19 | 0 | 0 | 145 |
-| last180d | 2026-04-10 | 8 | 116 | 19 | 0 | 0 | 251 |
-| 360d | 2025-10-12 | 14 | 255 | 21 | 0 | 0 | 495 |
-| last720d | 2024-10-17 | 31 | 559 | 24 | 0 | 0 | 1029 |
+| 30d | 2026-09-08 | 3 | 19 | 9 | 0 | 0 | 52 |
+| last60d | 2026-08-09 | 4 | 41 | 11 | 0 | 0 | 93 |
+| 90d | 2026-07-10 | 4 | 70 | 18 | 0 | 0 | 148 |
+| last180d | 2026-04-11 | 8 | 118 | 18 | 0 | 0 | 254 |
+| 360d | 2025-10-13 | 14 | 256 | 20 | 0 | 0 | 498 |
+| last720d | 2024-10-18 | 31 | 559 | 23 | 0 | 0 | 1029 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:42:32Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:51:20Z._
