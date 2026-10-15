@@ -30,7 +30,7 @@ Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 7/24 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 5/21 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 152 · **Merged PRs**: 2675 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4588
+- **Releases**: 152 · **Merged PRs**: 2675 · **Open PRs**: 27 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4588
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 3 | 20 | 6 | 0 | 0 | 43 |
-| last60d | 2026-08-15 | 3 | 43 | 8 | 0 | 0 | 92 |
-| 90d | 2026-07-16 | 4 | 71 | 14 | 0 | 0 | 144 |
-| last180d | 2026-04-17 | 8 | 116 | 15 | 0 | 0 | 244 |
-| 360d | 2025-10-19 | 14 | 256 | 17 | 0 | 0 | 500 |
-| last720d | 2024-10-24 | 31 | 554 | 20 | 0 | 0 | 1027 |
+| 30d | 2026-09-15 | 3 | 19 | 10 | 0 | 0 | 43 |
+| last60d | 2026-08-16 | 3 | 43 | 12 | 0 | 0 | 92 |
+| 90d | 2026-07-17 | 4 | 70 | 18 | 0 | 0 | 144 |
+| last180d | 2026-04-18 | 8 | 116 | 19 | 0 | 0 | 244 |
+| 360d | 2025-10-20 | 14 | 255 | 21 | 0 | 0 | 500 |
+| last720d | 2024-10-25 | 31 | 549 | 24 | 0 | 0 | 1025 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:41:21Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:23:59Z._
