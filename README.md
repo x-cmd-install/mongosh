@@ -14,12 +14,12 @@ x install mongosh
 
 ## Code insight
 
-Total: **178,916** lines of code across **760** files in the top 5 languages.
+Total: **179,479** lines of code across **760** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 93,141 | 6,025 | 9,226 | 385 |
-| Json | 74,416 | 0 | 2 | 97 |
+| TypeScript | 93,203 | 6,041 | 9,232 | 385 |
+| Json | 74,917 | 0 | 2 | 97 |
 | Tsx | 3,423 | 123 | 558 | 38 |
 | JavaScript | 3,323 | 931 | 286 | 211 |
 | Kotlin | 2,821 | 43 | 375 | 29 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.13.0` (2026-10-05)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-22
 - **Assets in release**: 53
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 152 · **Merged PRs**: 2681 · **Open PRs**: 25 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4599
+- **Releases**: 152 · **Merged PRs**: 2687 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4606
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 15 | 11 | 0 | 0 | 40 |
-| last60d | 2026-08-23 | 3 | 40 | 14 | 0 | 0 | 90 |
-| 90d | 2026-07-24 | 4 | 65 | 17 | 0 | 0 | 139 |
-| last180d | 2026-04-25 | 8 | 117 | 17 | 0 | 0 | 248 |
-| 360d | 2025-10-27 | 14 | 259 | 19 | 0 | 0 | 507 |
-| last720d | 2024-11-01 | 30 | 547 | 22 | 0 | 0 | 1027 |
+| 30d | 2026-09-23 | 1 | 21 | 8 | 0 | 0 | 47 |
+| last60d | 2026-08-24 | 3 | 45 | 11 | 0 | 0 | 97 |
+| 90d | 2026-07-25 | 4 | 70 | 13 | 0 | 0 | 146 |
+| last180d | 2026-04-26 | 8 | 123 | 14 | 0 | 0 | 255 |
+| 360d | 2025-10-28 | 14 | 265 | 16 | 0 | 0 | 514 |
+| last720d | 2024-11-02 | 30 | 553 | 19 | 0 | 0 | 1032 |
 
 ## Release assets
 
@@ -123,6 +123,15 @@ Lowest-scoring checks:
 | [mongosh-2.13.0-win32-x64.zip.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.13.0/mongosh-2.13.0-win32-x64.zip.sig) | 833 B | `native/win/x64` |
 | [mongosh-2.13.0-x64.msi](https://github.com/mongodb-js/mongosh/releases/download/v2.13.0/mongosh-2.13.0-x64.msi) | 62.6 MiB | `other` |
 
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **8** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.13.0` | ✅ latest |
+| Nix unstable | `2.13.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mongosh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -132,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:27:44Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:33:00Z._
