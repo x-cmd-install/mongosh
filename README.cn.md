@@ -26,11 +26,11 @@ x install mongosh
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.4 / 10**
+总评分: **6.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ x install mongosh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 22 | 9 | 0 | 0 | 44 |
-| last60d | 2026-08-27 | 4 | 46 | 12 | 0 | 0 | 99 |
-| 90d | 2026-07-28 | 5 | 63 | 12 | 0 | 0 | 131 |
-| last180d | 2026-04-29 | 9 | 121 | 15 | 0 | 0 | 253 |
-| 360d | 2025-10-31 | 14 | 263 | 17 | 0 | 0 | 506 |
-| last720d | 2024-11-05 | 31 | 550 | 20 | 0 | 0 | 1035 |
+| 30d | 2026-09-27 | 2 | 22 | 9 | 0 | 0 | 44 |
+| last60d | 2026-08-28 | 4 | 46 | 12 | 0 | 0 | 99 |
+| 90d | 2026-07-29 | 5 | 62 | 12 | 0 | 0 | 131 |
+| last180d | 2026-04-30 | 9 | 121 | 15 | 0 | 0 | 253 |
+| 360d | 2025-11-01 | 14 | 263 | 17 | 0 | 0 | 506 |
+| last720d | 2024-11-06 | 31 | 549 | 20 | 0 | 0 | 1032 |
 
 ## Release 资产
 
@@ -125,7 +125,7 @@ x install mongosh
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/mongosh) 上共有 **22** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/mongosh) 上共有 **22** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -141,4 +141,4 @@ mongosh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:30:03Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T04:48:49Z._

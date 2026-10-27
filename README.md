@@ -26,11 +26,11 @@ Total: **179,756** lines of code across **760** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.4 / 10**
+Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 22 | 9 | 0 | 0 | 44 |
-| last60d | 2026-08-27 | 4 | 46 | 12 | 0 | 0 | 99 |
-| 90d | 2026-07-28 | 5 | 63 | 12 | 0 | 0 | 131 |
-| last180d | 2026-04-29 | 9 | 121 | 15 | 0 | 0 | 253 |
-| 360d | 2025-10-31 | 14 | 263 | 17 | 0 | 0 | 506 |
-| last720d | 2024-11-05 | 31 | 550 | 20 | 0 | 0 | 1035 |
+| 30d | 2026-09-27 | 2 | 22 | 9 | 0 | 0 | 44 |
+| last60d | 2026-08-28 | 4 | 46 | 12 | 0 | 0 | 99 |
+| 90d | 2026-07-29 | 5 | 62 | 12 | 0 | 0 | 131 |
+| last180d | 2026-04-30 | 9 | 121 | 15 | 0 | 0 | 253 |
+| 360d | 2025-11-01 | 14 | 263 | 17 | 0 | 0 | 506 |
+| last720d | 2024-11-06 | 31 | 549 | 20 | 0 | 0 | 1032 |
 
 ## Release assets
 
@@ -125,7 +125,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -141,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:30:02Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:48:47Z._
