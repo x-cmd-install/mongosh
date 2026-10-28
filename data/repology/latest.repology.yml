@@ -108,9 +108,9 @@
 - repo: homebrew
   srcname: mongosh
   visiblename: mongosh
-  version: 2.13.0
+  version: 2.14.0
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB Shell to connect, configure, query, and work with your MongoDB database
 - repo: liguros_stable
   srcname: app-admin/mongosh-bin
