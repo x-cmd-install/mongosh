@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 153 · **Merged PRs**: 2688 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4612
+- **Releases**: 153 · **Merged PRs**: 2688 · **Open PRs**: 25 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4612
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 22 | 9 | 0 | 0 | 44 |
-| last60d | 2026-08-28 | 4 | 46 | 12 | 0 | 0 | 99 |
-| 90d | 2026-07-29 | 5 | 62 | 12 | 0 | 0 | 131 |
-| last180d | 2026-04-30 | 9 | 121 | 15 | 0 | 0 | 253 |
-| 360d | 2025-11-01 | 14 | 263 | 17 | 0 | 0 | 506 |
-| last720d | 2024-11-06 | 31 | 549 | 20 | 0 | 0 | 1032 |
+| 30d | 2026-09-28 | 2 | 21 | 11 | 0 | 0 | 44 |
+| last60d | 2026-08-29 | 4 | 46 | 14 | 0 | 0 | 99 |
+| 90d | 2026-07-30 | 5 | 59 | 14 | 0 | 0 | 131 |
+| last180d | 2026-05-01 | 9 | 121 | 17 | 0 | 0 | 253 |
+| 360d | 2025-11-02 | 14 | 263 | 19 | 0 | 0 | 506 |
+| last720d | 2024-11-07 | 31 | 549 | 22 | 0 | 0 | 1032 |
 
 ## Release assets
 
@@ -125,11 +125,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.13.0` | ⚠️ outdated |
+| Homebrew | `2.14.0` | ✅ latest |
 | Nix unstable | `2.13.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -141,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:48:47Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:23:31Z._
