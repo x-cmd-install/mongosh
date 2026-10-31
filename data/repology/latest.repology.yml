@@ -1,3 +1,35 @@
+- repo: nix_stable_25_11
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.5.10
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: termux
+  srcname: mongosh
+  binname: mongosh
+  visiblename: mongosh
+  version: 2.14.1
+  origversion: null
+  status: newest
+  summary: The MongoDB Shell
+  maintainers:
+    - gouranga.das.khulna@gmail.com
+- repo: nix_stable_25_05
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.5.1
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: mongosh
   binname: mongosh
@@ -108,9 +140,9 @@
 - repo: homebrew
   srcname: mongosh
   visiblename: mongosh
-  version: 2.14.0
+  version: 2.14.1
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB Shell to connect, configure, query, and work with your MongoDB database
 - repo: liguros_stable
   srcname: app-admin/mongosh-bin
@@ -216,28 +248,6 @@
     - wentworth@outlook.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: mongosh
-  visiblename: mongosh
-  version: 2.5.1
-  origversion: null
-  status: outdated
-  summary: MongoDB Shell
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: mongosh
-  visiblename: mongosh
-  version: 2.5.10
-  origversion: null
-  status: outdated
-  summary: MongoDB Shell
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: mongosh
   visiblename: mongosh
@@ -272,20 +282,10 @@
 - repo: slackbuilds
   srcname: development/mongodb-shell
   visiblename: development/mongodb-shell
-  version: 2.13.0
+  version: 2.14.1
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - willysr@slackbuilds.org
   categories:
     - development
-- repo: termux
-  srcname: mongosh
-  binname: mongosh
-  visiblename: mongosh
-  version: 2.14.0
-  origversion: null
-  status: outdated
-  summary: The MongoDB Shell
-  maintainers:
-    - gouranga.das.khulna@gmail.com
