@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.1` (2026-10-29)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 53
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 2693 · **Open PRs**: 25 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4620
+- **Releases**: 154 · **Merged PRs**: 2694 · **Open PRs**: 24 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4622
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 3 | 24 | 10 | 0 | 0 | 52 |
-| last60d | 2026-08-31 | 5 | 49 | 14 | 0 | 0 | 107 |
-| 90d | 2026-08-01 | 6 | 64 | 14 | 0 | 0 | 139 |
-| last180d | 2026-05-03 | 9 | 126 | 17 | 0 | 0 | 261 |
-| 360d | 2025-11-04 | 15 | 266 | 19 | 0 | 0 | 514 |
-| last720d | 2024-11-09 | 32 | 553 | 22 | 0 | 0 | 1040 |
+| 30d | 2026-10-01 | 3 | 22 | 8 | 0 | 0 | 54 |
+| last60d | 2026-09-01 | 5 | 49 | 13 | 0 | 0 | 109 |
+| 90d | 2026-08-02 | 6 | 65 | 13 | 0 | 0 | 141 |
+| last180d | 2026-05-04 | 9 | 127 | 16 | 0 | 0 | 263 |
+| 360d | 2025-11-05 | 15 | 266 | 18 | 0 | 0 | 516 |
+| last720d | 2024-11-10 | 32 | 553 | 21 | 0 | 0 | 1042 |
 
 ## Release assets
 
@@ -125,11 +125,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **4** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.14.0` | ⚠️ outdated |
+| Homebrew | `2.14.1` | ✅ latest |
 | Nix unstable | `2.13.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -141,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:33:50Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:20:23Z._
