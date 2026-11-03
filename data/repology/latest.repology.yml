@@ -252,9 +252,9 @@
 - repo: nix_unstable
   srcname: mongosh
   visiblename: mongosh
-  version: 2.13.0
+  version: 2.14.1
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB Shell
   maintainers:
     - wentworth@outlook.com
