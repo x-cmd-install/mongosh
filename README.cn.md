@@ -26,11 +26,11 @@ x install mongosh
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.5 / 10**
+总评分: **6.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
+- **Code-Review** (4/10) — Found 10/25 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -52,18 +52,18 @@ x install mongosh
 
 ## 累计统计
 
-- **发布数**: 154 · **已合并 PR**: 2696 · **开放 PR**: 26 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 4627
+- **发布数**: 154 · **已合并 PR**: 2696 · **开放 PR**: 27 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 4627
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 24 | 10 | 0 | 0 | 39 |
-| last60d | 2026-09-05 | 5 | 49 | 14 | 0 | 0 | 102 |
-| 90d | 2026-08-06 | 6 | 63 | 15 | 0 | 0 | 141 |
-| last180d | 2026-05-08 | 9 | 128 | 18 | 0 | 0 | 263 |
-| 360d | 2025-11-09 | 15 | 264 | 20 | 0 | 0 | 513 |
-| last720d | 2024-11-14 | 32 | 548 | 23 | 0 | 0 | 1039 |
+| 30d | 2026-10-06 | 2 | 19 | 9 | 0 | 0 | 39 |
+| last60d | 2026-09-06 | 5 | 46 | 15 | 0 | 0 | 102 |
+| 90d | 2026-08-07 | 6 | 63 | 16 | 0 | 0 | 141 |
+| last180d | 2026-05-09 | 9 | 128 | 19 | 0 | 0 | 263 |
+| 360d | 2025-11-10 | 15 | 264 | 21 | 0 | 0 | 513 |
+| last720d | 2024-11-15 | 32 | 547 | 24 | 0 | 0 | 1039 |
 
 ## Release 资产
 
@@ -141,4 +141,4 @@ mongosh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:00:28Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:27:27Z._
