@@ -15,9 +15,9 @@
   srcname: mongosh-bin
   binname: mongosh-bin
   visiblename: mongosh-bin
-  version: 2.14.0
-  origversion: 2.14.0-1
-  status: outdated
+  version: 2.14.1
+  origversion: 2.14.1-1
+  status: newest
   summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
   maintainers:
     - alexandro@aur
