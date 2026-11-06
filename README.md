@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 2696 · **Open PRs**: 27 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4627
+- **Releases**: 154 · **Merged PRs**: 2696 · **Open PRs**: 30 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4627
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 19 | 9 | 0 | 0 | 39 |
-| last60d | 2026-09-06 | 5 | 46 | 15 | 0 | 0 | 102 |
-| 90d | 2026-08-07 | 6 | 63 | 16 | 0 | 0 | 141 |
-| last180d | 2026-05-09 | 9 | 128 | 19 | 0 | 0 | 263 |
-| 360d | 2025-11-10 | 15 | 264 | 21 | 0 | 0 | 513 |
-| last720d | 2024-11-15 | 32 | 547 | 24 | 0 | 0 | 1039 |
+| 30d | 2026-10-07 | 2 | 18 | 12 | 0 | 0 | 39 |
+| last60d | 2026-09-07 | 5 | 42 | 18 | 0 | 0 | 102 |
+| 90d | 2026-08-08 | 6 | 63 | 19 | 0 | 0 | 141 |
+| last180d | 2026-05-10 | 9 | 128 | 22 | 0 | 0 | 263 |
+| 360d | 2025-11-11 | 15 | 264 | 24 | 0 | 0 | 513 |
+| last720d | 2024-11-16 | 32 | 547 | 27 | 0 | 0 | 1037 |
 
 ## Release assets
 
@@ -125,7 +125,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -141,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:27:26Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:21:02Z._
