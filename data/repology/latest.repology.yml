@@ -1,3 +1,14 @@
+- repo: nix_stable_24_11
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.3.7
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: mongosh
   visiblename: mongosh
@@ -20,13 +31,23 @@
     - wentworth@outlook.com
   licenses:
     - Apache-2.0
+- repo: blackarch
+  srcname: mongosh
+  binname: mongosh
+  visiblename: mongosh
+  version: 2.5.1
+  origversion: 2.5.1-1
+  status: outdated
+  summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
+  licenses:
+    - Apache
 - repo: aur
   srcname: mongosh
   binname: mongosh
   visiblename: mongosh
-  version: 2.14.0
-  origversion: 2.14.0-1
-  status: outdated
+  version: 2.14.2
+  origversion: 2.14.2-1
+  status: newest
   summary: Rich Node.js REPL for interacting with MongoDB instances.
   maintainers:
     - dfimium499@aur
@@ -58,16 +79,6 @@
     - dfimium499@aur
   licenses:
     - Apache-2.0
-- repo: blackarch
-  srcname: mongosh
-  binname: mongosh
-  visiblename: mongosh
-  version: 2.5.1
-  origversion: 2.5.1-1
-  status: outdated
-  summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
-  licenses:
-    - Apache
 - repo: chocolatey
   binname: mongodb-shell
   visiblename: MongoDB Shell
@@ -130,9 +141,9 @@
 - repo: homebrew
   srcname: mongosh
   visiblename: mongosh
-  version: 2.14.1
+  version: 2.14.2
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB Shell to connect, configure, query, and work with your MongoDB database
 - repo: liguros_stable
   srcname: app-admin/mongosh-bin
@@ -223,17 +234,6 @@
   origversion: null
   status: outdated
   summary: The MongoDB Shell
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: mongosh
-  visiblename: mongosh
-  version: 2.3.7
-  origversion: null
-  status: outdated
-  summary: MongoDB Shell
   maintainers:
     - wentworth@outlook.com
   licenses:
