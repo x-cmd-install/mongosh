@@ -1,25 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: mongosh
-  visiblename: mongosh
-  version: 2.3.7
-  origversion: null
-  status: outdated
-  summary: MongoDB Shell
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: mongosh
-  visiblename: mongosh
-  version: 2.5.1
-  origversion: null
-  status: outdated
-  summary: MongoDB Shell
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_11
   srcname: mongosh
   visiblename: mongosh
@@ -31,16 +9,6 @@
     - wentworth@outlook.com
   licenses:
     - Apache-2.0
-- repo: blackarch
-  srcname: mongosh
-  binname: mongosh
-  visiblename: mongosh
-  version: 2.5.1
-  origversion: 2.5.1-1
-  status: outdated
-  summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
-  licenses:
-    - Apache
 - repo: aur
   srcname: mongosh
   binname: mongosh
@@ -58,9 +26,9 @@
   srcname: mongosh-bin
   binname: mongosh-bin
   visiblename: mongosh-bin
-  version: 2.14.1
-  origversion: 2.14.1-1
-  status: outdated
+  version: 2.14.2
+  origversion: 2.14.2-1
+  status: newest
   summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
   maintainers:
     - alexandro@aur
@@ -79,6 +47,16 @@
     - dfimium499@aur
   licenses:
     - Apache-2.0
+- repo: blackarch
+  srcname: mongosh
+  binname: mongosh
+  visiblename: mongosh
+  version: 2.5.1
+  origversion: 2.5.1-1
+  status: outdated
+  summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
+  licenses:
+    - Apache
 - repo: chocolatey
   binname: mongodb-shell
   visiblename: MongoDB Shell
@@ -238,6 +216,28 @@
     - wentworth@outlook.com
   licenses:
     - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.3.7
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.5.1
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: mongosh
   visiblename: mongosh
@@ -272,9 +272,9 @@
 - repo: slackbuilds
   srcname: development/mongodb-shell
   visiblename: development/mongodb-shell
-  version: 2.14.1
+  version: 2.14.2
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - willysr@slackbuilds.org
   categories:
