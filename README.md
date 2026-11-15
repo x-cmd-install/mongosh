@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.2` (2026-11-11)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 53
 
 ## Popularity
 
-- **Stars**: 402 · **Forks**: 94 · **Open issues**: 0 · **Contributors**: 82
+- **Stars**: 403 · **Forks**: 94 · **Open issues**: 0 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 2711 · **Open PRs**: 29 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4653
+- **Releases**: 155 · **Merged PRs**: 2711 · **Open PRs**: 29 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4654
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 3 | 28 | 9 | 0 | 0 | 57 |
-| last60d | 2026-09-15 | 6 | 52 | 16 | 0 | 0 | 114 |
-| 90d | 2026-08-16 | 6 | 76 | 18 | 0 | 0 | 158 |
-| last180d | 2026-05-18 | 10 | 142 | 21 | 0 | 0 | 280 |
-| 360d | 2025-11-19 | 16 | 273 | 22 | 0 | 0 | 532 |
-| last720d | 2024-11-24 | 33 | 547 | 26 | 0 | 0 | 1049 |
+| 30d | 2026-10-16 | 3 | 27 | 9 | 0 | 0 | 45 |
+| last60d | 2026-09-16 | 5 | 48 | 16 | 0 | 0 | 96 |
+| 90d | 2026-08-17 | 6 | 75 | 18 | 0 | 0 | 146 |
+| last180d | 2026-05-19 | 10 | 142 | 21 | 0 | 0 | 275 |
+| 360d | 2025-11-20 | 16 | 271 | 22 | 0 | 0 | 523 |
+| last720d | 2024-11-25 | 33 | 547 | 26 | 0 | 0 | 1049 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:05:23Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:09:20Z._
