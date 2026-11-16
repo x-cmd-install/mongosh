@@ -1,14 +1,13 @@
-- repo: nix_stable_25_11
+- repo: termux
   srcname: mongosh
+  binname: mongosh
   visiblename: mongosh
-  version: 2.5.10
+  version: 2.14.2
   origversion: null
-  status: outdated
-  summary: MongoDB Shell
+  status: newest
+  summary: The MongoDB Shell
   maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
+    - gouranga.das.khulna@gmail.com
 - repo: aur
   srcname: mongosh
   binname: mongosh
@@ -60,9 +59,9 @@
 - repo: chocolatey
   binname: mongodb-shell
   visiblename: MongoDB Shell
-  version: 2.14.1
+  version: 2.14.2
   origversion: null
-  status: outdated
+  status: newest
   summary: The quickest way to connect to MongoDB and Atlas to work with your data and configure your database
 - repo: freebsd
   srcname: databases/mongosh
@@ -238,6 +237,17 @@
     - wentworth@outlook.com
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.5.10
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: mongosh
   visiblename: mongosh
@@ -252,9 +262,9 @@
 - repo: nix_unstable
   srcname: mongosh
   visiblename: mongosh
-  version: 2.14.1
+  version: 2.14.2
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB Shell
   maintainers:
     - wentworth@outlook.com
@@ -279,13 +289,3 @@
     - willysr@slackbuilds.org
   categories:
     - development
-- repo: termux
-  srcname: mongosh
-  binname: mongosh
-  visiblename: mongosh
-  version: 2.14.2
-  origversion: null
-  status: newest
-  summary: The MongoDB Shell
-  maintainers:
-    - gouranga.das.khulna@gmail.com
