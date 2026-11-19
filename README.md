@@ -14,12 +14,12 @@ x install mongosh
 
 ## Code insight
 
-Total: **180,329** lines of code across **768** files in the top 5 languages.
+Total: **180,408** lines of code across **768** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 94,069 | 6,152 | 9,350 | 392 |
-| Json | 74,850 | 0 | 2 | 97 |
+| TypeScript | 94,145 | 6,157 | 9,353 | 392 |
+| Json | 74,851 | 0 | 2 | 97 |
 | Tsx | 3,423 | 123 | 558 | 38 |
 | JavaScript | 3,373 | 934 | 288 | 212 |
 | Kotlin | 2,821 | 43 | 375 | 29 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.2` (2026-11-11)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 53
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 2713 · **Open PRs**: 27 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4656
+- **Releases**: 155 · **Merged PRs**: 2716 · **Open PRs**: 28 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4661
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 29 | 7 | 0 | 0 | 47 |
-| last60d | 2026-09-18 | 5 | 49 | 14 | 0 | 0 | 98 |
-| 90d | 2026-08-19 | 6 | 74 | 16 | 0 | 0 | 148 |
-| last180d | 2026-05-21 | 10 | 142 | 19 | 0 | 0 | 277 |
-| 360d | 2025-11-22 | 16 | 273 | 20 | 0 | 0 | 525 |
-| last720d | 2024-11-27 | 33 | 545 | 24 | 0 | 0 | 1045 |
+| 30d | 2026-10-20 | 3 | 30 | 8 | 0 | 0 | 52 |
+| last60d | 2026-09-20 | 4 | 52 | 15 | 0 | 0 | 103 |
+| 90d | 2026-08-21 | 6 | 75 | 17 | 0 | 0 | 153 |
+| last180d | 2026-05-23 | 10 | 144 | 20 | 0 | 0 | 282 |
+| 360d | 2025-11-24 | 16 | 273 | 21 | 0 | 0 | 530 |
+| last720d | 2024-11-29 | 32 | 547 | 25 | 0 | 0 | 1048 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:43:47Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:08:44Z._
