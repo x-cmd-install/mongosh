@@ -1,19 +1,9 @@
-- repo: termux
-  srcname: mongosh
-  binname: mongosh
-  visiblename: mongosh
-  version: 2.14.2
-  origversion: null
-  status: newest
-  summary: The MongoDB Shell
-  maintainers:
-    - gouranga.das.khulna@gmail.com
 - repo: aur
   srcname: mongosh
   binname: mongosh
   visiblename: mongosh
-  version: 2.14.2
-  origversion: 2.14.2-1
+  version: 2.14.3
+  origversion: 2.14.3-1
   status: newest
   summary: Rich Node.js REPL for interacting with MongoDB instances.
   maintainers:
@@ -27,7 +17,7 @@
   visiblename: mongosh-bin
   version: 2.14.2
   origversion: 2.14.2-1
-  status: newest
+  status: outdated
   summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
   maintainers:
     - alexandro@aur
@@ -61,7 +51,7 @@
   visiblename: MongoDB Shell
   version: 2.14.2
   origversion: null
-  status: newest
+  status: outdated
   summary: The quickest way to connect to MongoDB and Atlas to work with your data and configure your database
 - repo: freebsd
   srcname: databases/mongosh
@@ -120,7 +110,7 @@
   visiblename: mongosh
   version: 2.14.2
   origversion: null
-  status: newest
+  status: outdated
   summary: MongoDB Shell to connect, configure, query, and work with your MongoDB database
 - repo: liguros_stable
   srcname: app-admin/mongosh-bin
@@ -264,7 +254,7 @@
   visiblename: mongosh
   version: 2.14.2
   origversion: null
-  status: newest
+  status: outdated
   summary: MongoDB Shell
   maintainers:
     - wentworth@outlook.com
@@ -274,7 +264,7 @@
   subrepo: extras
   binname: mongosh
   visiblename: mongosh
-  version: 2.14.2
+  version: 2.14.3
   origversion: null
   status: newest
   licenses:
@@ -284,8 +274,18 @@
   visiblename: development/mongodb-shell
   version: 2.14.2
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - willysr@slackbuilds.org
   categories:
     - development
+- repo: termux
+  srcname: mongosh
+  binname: mongosh
+  visiblename: mongosh
+  version: 2.14.3
+  origversion: null
+  status: newest
+  summary: The MongoDB Shell
+  maintainers:
+    - gouranga.das.khulna@gmail.com
