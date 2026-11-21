@@ -15,9 +15,9 @@
   srcname: mongosh-bin
   binname: mongosh-bin
   visiblename: mongosh-bin
-  version: 2.14.2
-  origversion: 2.14.2-1
-  status: outdated
+  version: 2.14.3
+  origversion: 2.14.3-1
+  status: newest
   summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
   maintainers:
     - alexandro@aur
@@ -108,9 +108,9 @@
 - repo: homebrew
   srcname: mongosh
   visiblename: mongosh
-  version: 2.14.2
+  version: 2.14.3
   origversion: null
-  status: outdated
+  status: newest
   summary: MongoDB Shell to connect, configure, query, and work with your MongoDB database
 - repo: liguros_stable
   srcname: app-admin/mongosh-bin
@@ -272,9 +272,9 @@
 - repo: slackbuilds
   srcname: development/mongodb-shell
   visiblename: development/mongodb-shell
-  version: 2.14.2
+  version: 2.14.3
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - willysr@slackbuilds.org
   categories:
