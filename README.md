@@ -14,12 +14,12 @@ x install mongosh
 
 ## Code insight
 
-Total: **180,404** lines of code across **768** files in the top 5 languages.
+Total: **180,430** lines of code across **768** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 94,141 | 6,162 | 9,355 | 392 |
-| Json | 74,851 | 0 | 2 | 97 |
+| Json | 74,877 | 0 | 2 | 97 |
 | Tsx | 3,423 | 123 | 558 | 38 |
 | JavaScript | 3,373 | 934 | 288 | 212 |
 | Kotlin | 2,821 | 43 | 375 | 29 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.3` (2026-11-19)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 53
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 156 · **Merged PRs**: 2717 · **Open PRs**: 30 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4664
+- **Releases**: 156 · **Merged PRs**: 2719 · **Open PRs**: 28 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4668
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 31 | 11 | 0 | 0 | 55 |
-| last60d | 2026-09-21 | 5 | 52 | 17 | 0 | 0 | 106 |
-| 90d | 2026-08-22 | 7 | 76 | 19 | 0 | 0 | 156 |
-| last180d | 2026-05-24 | 11 | 145 | 22 | 0 | 0 | 285 |
-| 360d | 2025-11-25 | 17 | 273 | 23 | 0 | 0 | 533 |
-| last720d | 2024-11-30 | 33 | 548 | 27 | 0 | 0 | 1051 |
+| 30d | 2026-10-22 | 4 | 31 | 8 | 0 | 0 | 59 |
+| last60d | 2026-09-22 | 5 | 53 | 15 | 0 | 0 | 110 |
+| 90d | 2026-08-23 | 7 | 78 | 17 | 0 | 0 | 160 |
+| last180d | 2026-05-25 | 11 | 147 | 20 | 0 | 0 | 289 |
+| 360d | 2025-11-26 | 17 | 274 | 21 | 0 | 0 | 537 |
+| last720d | 2024-12-01 | 33 | 550 | 25 | 0 | 0 | 1055 |
 
 ## Release assets
 
@@ -125,11 +125,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **3** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.14.2` | ⚠️ outdated |
+| Homebrew | `2.14.3` | ✅ latest |
 | Nix unstable | `2.14.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -141,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:00:01Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:54:59Z._
