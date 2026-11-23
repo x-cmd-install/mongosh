@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 29 | 8 | 0 | 0 | 47 |
-| last60d | 2026-09-23 | 5 | 53 | 15 | 0 | 0 | 106 |
-| 90d | 2026-08-24 | 7 | 77 | 17 | 0 | 0 | 156 |
-| last180d | 2026-05-26 | 11 | 146 | 20 | 0 | 0 | 287 |
-| 360d | 2025-11-27 | 17 | 267 | 21 | 0 | 0 | 514 |
-| last720d | 2024-12-02 | 33 | 549 | 25 | 0 | 0 | 1055 |
+| 30d | 2026-10-24 | 3 | 29 | 8 | 0 | 0 | 47 |
+| last60d | 2026-09-24 | 5 | 53 | 15 | 0 | 0 | 106 |
+| 90d | 2026-08-25 | 7 | 77 | 17 | 0 | 0 | 156 |
+| last180d | 2026-05-27 | 11 | 146 | 20 | 0 | 0 | 287 |
+| 360d | 2025-11-28 | 17 | 266 | 21 | 0 | 0 | 514 |
+| last720d | 2024-12-03 | 33 | 548 | 25 | 0 | 0 | 1055 |
 
 ## Release assets
 
@@ -125,7 +125,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/mongosh). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -141,4 +141,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:30:08Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:20:06Z._
