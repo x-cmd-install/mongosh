@@ -1,3 +1,25 @@
+- repo: nix_stable_24_11
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.3.7
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.5.1
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: mongosh
   binname: mongosh
@@ -46,12 +68,23 @@
   summary: An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.
   licenses:
     - Apache
+- repo: nix_stable_25_11
+  srcname: mongosh
+  visiblename: mongosh
+  version: 2.5.10
+  origversion: null
+  status: outdated
+  summary: MongoDB Shell
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - Apache-2.0
 - repo: chocolatey
   binname: mongodb-shell
   visiblename: MongoDB Shell
-  version: 2.14.2
+  version: 2.14.3
   origversion: null
-  status: outdated
+  status: newest
   summary: The quickest way to connect to MongoDB and Atlas to work with your data and configure your database
 - repo: freebsd
   srcname: databases/mongosh
@@ -201,39 +234,6 @@
   origversion: null
   status: outdated
   summary: The MongoDB Shell
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: mongosh
-  visiblename: mongosh
-  version: 2.3.7
-  origversion: null
-  status: outdated
-  summary: MongoDB Shell
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: mongosh
-  visiblename: mongosh
-  version: 2.5.1
-  origversion: null
-  status: outdated
-  summary: MongoDB Shell
-  maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: mongosh
-  visiblename: mongosh
-  version: 2.5.10
-  origversion: null
-  status: outdated
-  summary: MongoDB Shell
   maintainers:
     - wentworth@outlook.com
   licenses:
