@@ -58,12 +58,12 @@ x install mongosh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 29 | 9 | 0 | 0 | 47 |
-| last60d | 2026-09-25 | 5 | 53 | 16 | 0 | 0 | 106 |
-| 90d | 2026-08-26 | 7 | 77 | 18 | 0 | 0 | 156 |
-| last180d | 2026-05-28 | 11 | 146 | 21 | 0 | 0 | 287 |
-| 360d | 2025-11-29 | 16 | 266 | 22 | 0 | 0 | 514 |
-| last720d | 2024-12-04 | 33 | 547 | 26 | 0 | 0 | 1055 |
+| 30d | 2026-10-26 | 3 | 29 | 9 | 0 | 0 | 47 |
+| last60d | 2026-09-26 | 5 | 53 | 16 | 0 | 0 | 106 |
+| 90d | 2026-08-27 | 7 | 77 | 18 | 0 | 0 | 156 |
+| last180d | 2026-05-29 | 11 | 146 | 21 | 0 | 0 | 287 |
+| 360d | 2025-11-30 | 16 | 266 | 22 | 0 | 0 | 514 |
+| last720d | 2024-12-05 | 33 | 547 | 26 | 0 | 0 | 1051 |
 
 ## Release 资产
 
@@ -123,15 +123,6 @@ x install mongosh
 | [mongosh-2.14.3-win32-x64.zip.sig](https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-win32-x64.zip.sig) | 833 B | `native/win/x64` |
 | [mongosh-2.14.3-x64.msi](https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-x64.msi) | 62.9 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/mongosh) 上共有 **22** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.14.3` | ✅ latest |
-| Nix unstable | `2.14.2` | ⚠️ outdated |
-
 ## 改进这些数据
 
 mongosh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `mongosh` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -141,4 +132,4 @@ mongosh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:42:19Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:13:59Z._
