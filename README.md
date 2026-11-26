@@ -14,11 +14,11 @@ x install mongosh
 
 ## Code insight
 
-Total: **180,430** lines of code across **768** files in the top 5 languages.
+Total: **180,172** lines of code across **766** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 94,141 | 6,162 | 9,355 | 392 |
+| TypeScript | 93,883 | 6,161 | 9,306 | 390 |
 | Json | 74,877 | 0 | 2 | 97 |
 | Tsx | 3,423 | 123 | 558 | 38 |
 | JavaScript | 3,373 | 934 | 288 | 212 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.3` (2026-11-19)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-25
 - **Assets in release**: 53
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 156 · **Merged PRs**: 2719 · **Open PRs**: 29 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4669
+- **Releases**: 156 · **Merged PRs**: 2720 · **Open PRs**: 29 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 4671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 29 | 9 | 0 | 0 | 47 |
-| last60d | 2026-09-26 | 5 | 53 | 16 | 0 | 0 | 106 |
-| 90d | 2026-08-27 | 7 | 77 | 18 | 0 | 0 | 156 |
-| last180d | 2026-05-29 | 11 | 146 | 21 | 0 | 0 | 287 |
-| 360d | 2025-11-30 | 16 | 266 | 22 | 0 | 0 | 514 |
-| last720d | 2024-12-05 | 33 | 547 | 26 | 0 | 0 | 1051 |
+| 30d | 2026-10-27 | 3 | 28 | 9 | 0 | 0 | 49 |
+| last60d | 2026-09-27 | 5 | 54 | 16 | 0 | 0 | 108 |
+| 90d | 2026-08-28 | 7 | 78 | 18 | 0 | 0 | 158 |
+| last180d | 2026-05-30 | 11 | 147 | 21 | 0 | 0 | 289 |
+| 360d | 2025-12-01 | 16 | 262 | 22 | 0 | 0 | 516 |
+| last720d | 2024-12-06 | 33 | 548 | 26 | 0 | 0 | 1053 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for mongosh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:13:58Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:01:06Z._
