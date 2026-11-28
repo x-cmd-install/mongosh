@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 67306096,
       "digest": "sha256:42a23e945534793f4438a274d495806f1c563ff574f48bac4b4f180c8fd6ca65",
-      "download_count": 48,
+      "download_count": 51,
       "created_at": "2026-11-19T14:20:06Z",
       "updated_at": "2026-11-19T14:20:08Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongodb-mongosh-2.14.3.x86_64.rpm"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 64663336,
       "digest": "sha256:6b61bd664c0ad6fda5493291c20f02bfa0f0a52d533e9e85ad770f4c671f2119",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-11-19T14:21:01Z",
       "updated_at": "2026-11-19T14:21:05Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongodb-mongosh-shared-openssl3-2.14.3.x86_64.rpm"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 59446892,
       "digest": "sha256:78a9137cd0549d516bde680efd3befe87e333e5a7725abaa5e88c6b1c29d931b",
-      "download_count": 28,
+      "download_count": 31,
       "created_at": "2026-11-19T14:20:52Z",
       "updated_at": "2026-11-19T14:20:54Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongodb-mongosh-shared-openssl3_2.14.3_amd64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 56255728,
       "digest": "sha256:0cc6c779ae1e475d5f312568a1c3a9bbc3f0f13a88e04513a658e88df21b3775",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-19T14:22:16Z",
       "updated_at": "2026-11-19T14:22:17Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongodb-mongosh-shared-openssl3_2.14.3_arm64.deb"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 61800068,
       "digest": "sha256:1fa311e05d6ec342c41d0e600a21aa82e5b45c6fba5546ef279b469a71875953",
-      "download_count": 76,
+      "download_count": 82,
       "created_at": "2026-11-19T14:19:58Z",
       "updated_at": "2026-11-19T14:19:59Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongodb-mongosh_2.14.3_amd64.deb"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 82378056,
       "digest": "sha256:d1a226a2fa1eb6c68c7203aea933d2283b1430481fbd68e08967e51feb596ff5",
-      "download_count": 324,
+      "download_count": 350,
       "created_at": "2026-11-19T14:19:36Z",
       "updated_at": "2026-11-19T14:19:41Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-darwin-arm64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 85337260,
       "digest": "sha256:06891d5c7d8a1d24845badab5e4398e63022a12bad5863b25e16ea959d67b2a3",
-      "download_count": 95,
+      "download_count": 97,
       "created_at": "2026-11-19T14:19:25Z",
       "updated_at": "2026-11-19T14:19:29Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-darwin-x64.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 90847681,
       "digest": "sha256:0f9c8ea435f139911032ca2925934afb610a1e278bb0f09888f2de5e195fd321",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-11-19T14:22:06Z",
       "updated_at": "2026-11-19T14:22:10Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-linux-arm64-openssl3.tgz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 94503748,
       "digest": "sha256:47ce1c6b6aa22c58118416f6423237093bf67886b56998fae4dd8430b369b667",
-      "download_count": 165,
+      "download_count": 174,
       "created_at": "2026-11-19T14:21:12Z",
       "updated_at": "2026-11-19T14:21:16Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-linux-arm64.tgz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:7ffb496c1494d7b2482e7ef3aafd82f216f67d7b0935d9bd710f3a79f3eb0abb",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-19T14:21:10Z",
       "updated_at": "2026-11-19T14:21:11Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-linux-arm64.tgz.sig"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 91360306,
       "digest": "sha256:af7b14a4865cabd15ef8434a14bd9dcf3f10c03d3ee3ea7d994a260347b4cbbf",
-      "download_count": 45,
+      "download_count": 46,
       "created_at": "2026-11-19T14:20:15Z",
       "updated_at": "2026-11-19T14:20:18Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-linux-x64-openssl11.tgz"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 91449030,
       "digest": "sha256:def63b72a7f3af042f0fb9f4cfa28669efc933ea5d718fd8210d7eba519706c0",
-      "download_count": 1105,
+      "download_count": 1139,
       "created_at": "2026-11-19T14:20:43Z",
       "updated_at": "2026-11-19T14:20:45Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-linux-x64-openssl3.tgz"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:e76d823d1f08de90a7f9886d36a87c408c28aab102eee8677fa4f5c61dd72a90",
-      "download_count": 59,
+      "download_count": 63,
       "created_at": "2026-11-19T14:20:41Z",
       "updated_at": "2026-11-19T14:20:42Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-linux-x64-openssl3.tgz.sig"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 94701260,
       "digest": "sha256:2f9082b19c3daa4469865cb2d13ba64eea9f5b447371ecd25f175bb99320d575",
-      "download_count": 4005,
+      "download_count": 4277,
       "created_at": "2026-11-19T14:19:48Z",
       "updated_at": "2026-11-19T14:19:51Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-linux-x64.tgz"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 63471516,
       "digest": "sha256:f45e7dd80269c436300e6c8501c13a3f482d8dca47dc2c363c083c939120bcf0",
-      "download_count": 399,
+      "download_count": 469,
       "created_at": "2026-11-19T14:24:30Z",
       "updated_at": "2026-11-19T14:24:32Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-win32-x64.zip"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:2bab1a29706127e6db798611676388b4ce6ae718f35c0a6573f383cd4783ccef",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-11-19T14:24:29Z",
       "updated_at": "2026-11-19T14:24:29Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-win32-x64.zip.sig"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 65974272,
       "digest": "sha256:d49caaa5c4beaa6d937216c2bca88a1a93f1fc5c9d206a9329d46fe1b91109c3",
-      "download_count": 342,
+      "download_count": 417,
       "created_at": "2026-11-19T14:24:38Z",
       "updated_at": "2026-11-19T14:24:41Z",
       "browser_download_url": "https://github.com/mongodb-js/mongosh/releases/download/v2.14.3/mongosh-2.14.3-x64.msi"
